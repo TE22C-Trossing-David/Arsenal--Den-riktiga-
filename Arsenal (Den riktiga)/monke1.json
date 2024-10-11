@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Supermonkey",
+    "Damage": 1,
+    "NumberOfAttacks": 10,
+    "Pierce": 1,
+    "Cost": 100
+  },
+  {
+    "Name": "Mermonkey",
+    "Damage": 5,
+    "NumberOfAttacks": 3,
+    "Pierce": 3,
+    "Cost": 20
+  }
+]
